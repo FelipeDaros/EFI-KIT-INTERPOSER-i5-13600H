@@ -13,7 +13,7 @@
 |Item|Description|
 |-|:-------:|
 |CPU|Intel(R) Core(TM) i5-13600H
-|Memory|16GB DDR5 (16Gx1)|
+|Memory|16GB DDR5 (16Gx1) 5600MHz|
 |Storage|NVMe ADATA XPG GAMING 512GB|
 |GPU|RADEON RX 6600
 |Ethernet|Intel's AND Realtek's 2.5Gb Ethernet.
@@ -45,3 +45,8 @@
 - EHCI/XHCI Hand-off
 - OS type: Windows 8.1/10 UEFI Mode
 - SATA Mode: AHCI
+
+# References
+https://www.youtube.com/@UniversoHackintosh/featured
+<br>
+https://discord.universohackintosh.com.br
