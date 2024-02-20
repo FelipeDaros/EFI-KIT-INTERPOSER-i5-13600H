@@ -1,5 +1,5 @@
 # KIT interposer i5 13600H
-
+![overview-12 4](./photo.png)
 ![overview-12 3](./Geekbench.png)
 
 # EFI Details
