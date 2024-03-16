@@ -3,7 +3,14 @@
 ![overview-12 3](./Geekbench.png)
 
 # EFI Details
-**Latest working macOS**: 14.3.1
+**Latest working MacOS**: 14.4.0
+<br>
+**Current OpenCore**: 0.9.9
+<br>
+**Release date**: 16/03/2024
+
+# EFI Timeline
+**Working MacOS**: 14.3.1
 <br>
 **Current OpenCore**: 0.9.8
 <br>
