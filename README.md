@@ -3,13 +3,19 @@
 ![overview-12 3](./Geekbench.png)
 
 # EFI Details
-**Latest working MacOS**: 14.4.0
+**Latest working MacOS**: 14.5
+<br>
+**Current OpenCore**: 1.0.0
+<br>
+**Release date**: 25/05/2024
+
+# EFI Timeline
+**Working MacOS**: 14.4.0
 <br>
 **Current OpenCore**: 0.9.9
 <br>
-**Release date**: 16/03/2024
+**Release date**: 00/03/2024
 
-# EFI Timeline
 **Working MacOS**: 14.3.1
 <br>
 **Current OpenCore**: 0.9.8
@@ -24,6 +30,7 @@
 |Storage|NVMe ADATA XPG GAMING 512GB|
 |GPU|RADEON RX 6600
 |Ethernet|Intel's AND Realtek's 2.5Gb Ethernet.
+|Wireless/BT| BCM94360CS2, NVME Adapter and 2 Antennas
 
 # BIOS Settings
 
