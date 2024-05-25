@@ -1,0 +1,1 @@
+These files are only for macOS Sonoma 14.0 ~ 14.3.1
